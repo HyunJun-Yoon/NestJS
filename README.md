@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Authentication with JWT, Passport-jwt startegy.
 
 ## Installation
 
