@@ -26,6 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 Authentication with JWT, Passport-jwt startegy.
+Data Persistence - PostgreSQL and TypeORM
 
 ## Installation
 
