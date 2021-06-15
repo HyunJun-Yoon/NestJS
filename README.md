@@ -29,10 +29,12 @@ Authentication with JWT, Passport-jwt startegy.
 Data Persistence - PostgreSQL and TypeORM
 
 ## Deployment
-Backend & PostgreSQL - Heroku
+Backend & PostgreSQL with Heroku
 
 
-Frontend - https://hyunjun-yoon.github.io/task-management-frontend/#/
+Frontend with Github Pages 
+
+https://hyunjun-yoon.github.io/task-management-frontend/#/
 
 ## Installation
 
