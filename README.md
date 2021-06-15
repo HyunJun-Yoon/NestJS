@@ -30,6 +30,8 @@ Data Persistence - PostgreSQL and TypeORM
 
 ## Deployment
 Backend & PostgreSQL - Heroku
+
+
 Frontend - https://hyunjun-yoon.github.io/task-management-frontend/#/
 
 ## Installation
