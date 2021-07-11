@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-Task Management website
+Task Management website with login & logout
 
 Authentication with JWT, Passport-jwt startegy.
 
